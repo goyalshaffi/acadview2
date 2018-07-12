@@ -1,0 +1,4 @@
+consumer_key="HZg9soMexVeGrJWA5MlLYMTdd"
+consumer_secret="R2YGTlhJ3futmYAfjhTmEQVzd3Jhm1V8cD4DmtcAXR2aISWw7L"
+access_token="1011804333061517312-Y8mfUhksfb0LKhKaG1O8VGuM5KvZgb"
+access_secret="e0AL1GmqQnEx8KtAbU06wZvM8kymrC4bJt1ZT9YO1si7O"

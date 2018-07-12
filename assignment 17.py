@@ -1,5 +1,5 @@
 # q1
-
+'''
 
 import tkinter as tk
 from tkinter import *
@@ -57,7 +57,7 @@ button=tk.Button(r,text='update',width=25,command=change)
 button.pack(side=tk.LEFT)
 r.mainloop()
 
-
+'''
 
 # q4
 

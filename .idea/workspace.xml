@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04f53038-baf1-4d5c-9aff-2394c4169ff9" name="Default" comment="" />
+    <list default="true" id="04f53038-baf1-4d5c-9aff-2394c4169ff9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment 17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment18.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment18.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,38 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="assignment 13.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignment 14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignment 15.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 15.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="assignment 18.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 18.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="17">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="9" />
               <folding>
                 <element signature="e#7#27#0" expanded="true" />
               </folding>
@@ -50,38 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment 20.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="assignment18.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment 20.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignment.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4403">
-              <caret line="259" selection-start-line="259" selection-end-line="259" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignment 16.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment 16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -89,19 +48,73 @@
       <file leaf-file-name="assignment 17.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment 17.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="816">
+              <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+              <folding>
+                <element signature="e#1312#1332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pandaclass.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandaclass.py">
+      <file leaf-file-name="projectnltk.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectnltk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keys2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keys2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projectpralleldots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectpralleldots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projectjson.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectjson.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#104#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keys3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keys3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="53" selection-start-column="53" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter2 bot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitter2 bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,8 +149,6 @@
         <option value="$PROJECT_DIR$/test3.txt" />
         <option value="$PROJECT_DIR$/FUJGVIKGUV.PY.py" />
         <option value="$PROJECT_DIR$/assignment 16.py" />
-        <option value="$PROJECT_DIR$/assignment 17.py" />
-        <option value="$PROJECT_DIR$/assignment18.py" />
         <option value="$PROJECT_DIR$/assignment 15.py" />
         <option value="$PROJECT_DIR$/assignment 18.py" />
         <option value="$PROJECT_DIR$/assignment 19.py" />
@@ -146,6 +157,17 @@
         <option value="$PROJECT_DIR$/pandaclass.py" />
         <option value="$PROJECT_DIR$/assignment 20.csv" />
         <option value="$PROJECT_DIR$/assignment 20.py" />
+        <option value="$PROJECT_DIR$/assignment 17.py" />
+        <option value="$PROJECT_DIR$/project.py" />
+        <option value="$PROJECT_DIR$/assignment18.py" />
+        <option value="$PROJECT_DIR$/keys2.py" />
+        <option value="$PROJECT_DIR$/nltk.py" />
+        <option value="$PROJECT_DIR$/keys3.py" />
+        <option value="$PROJECT_DIR$/json.py" />
+        <option value="$PROJECT_DIR$/projectjson.py" />
+        <option value="$PROJECT_DIR$/projectnltk.py" />
+        <option value="$PROJECT_DIR$/projectpralleldots.py" />
+        <option value="$PROJECT_DIR$/twitter2 bot.py" />
       </list>
     </option>
   </component>
@@ -177,8 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment 20">
-    <configuration name="assignment 17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.projectjson">
+    <configuration name="json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,13 +212,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 17.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hawk\PycharmProjects\acadview2\projectjson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nltk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,13 +230,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 18.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\hawk\PycharmProjects\acadview2\projectnltk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="projectjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,13 +248,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectjson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment 20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="projectnltk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,13 +266,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment 20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectnltk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pandaclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="projectpralleldots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acadview2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,26 +284,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandaclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectpralleldots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.assignment 17" />
-      <item itemvalue="Python.assignment 18" />
-      <item itemvalue="Python.assignment 19" />
-      <item itemvalue="Python.pandaclass" />
-      <item itemvalue="Python.assignment 20" />
+      <item itemvalue="Python.nltk" />
+      <item itemvalue="Python.projectnltk" />
+      <item itemvalue="Python.projectpralleldots" />
+      <item itemvalue="Python.json" />
+      <item itemvalue="Python.projectjson" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment 20" />
-        <item itemvalue="Python.pandaclass" />
-        <item itemvalue="Python.assignment 19" />
-        <item itemvalue="Python.assignment 18" />
-        <item itemvalue="Python.assignment 17" />
+        <item itemvalue="Python.projectjson" />
+        <item itemvalue="Python.json" />
+        <item itemvalue="Python.projectpralleldots" />
+        <item itemvalue="Python.projectnltk" />
+        <item itemvalue="Python.nltk" />
       </list>
     </recent_temporary>
   </component>
@@ -305,13 +327,13 @@
       <window_info content_ui="combo" id="Project" order="0" weight="0.23352855" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -323,13 +345,13 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23352855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23352855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
@@ -360,52 +382,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment 11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="61" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twiiter bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test3.txt" />
-    <entry file="file://$PROJECT_DIR$/assignment 14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
@@ -424,9 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -476,9 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -521,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,24 +557,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twiiter bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -626,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="e#966#982#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,23 +587,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 19.py" />
-    <entry file="file://$PROJECT_DIR$/assignment19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment 15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="391">
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
@@ -668,47 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#7#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment 14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandaclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4403">
@@ -716,10 +615,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandaclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="17" selection-start-line="11" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twiiter bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding>
+            <element signature="e#1312#1332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment 20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment 18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#7#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectnltk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectpralleldots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectjson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#104#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter2 bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
