@@ -6,4 +6,4 @@ get_api_key()
 text="have a nice day"
 sentiment_value=sentiment(text)
 print(sentiment_value["sentiment"])
-location_value=location(text)
+location_value=LOCATION("#sanju")

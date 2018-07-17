@@ -14,9 +14,8 @@ import json
 oauth=tweepy.OAuthHandler(consumer_key,consumer_secret)
 oauth.set_access_token(access_token,access_secret)
 api=tweepy.API(oauth)
-#status=api.user_timeline(api.search("#sanju")))
-#status=status_list[0]
 x=print(api.search("#sanju"))
-json_data=json.load(x)
+for tweet in x:
+    json_data=json.dumps(tweet._json)
 
 print(json_data)
